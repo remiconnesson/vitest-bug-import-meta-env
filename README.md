@@ -1,5 +1,11 @@
 # failed_env
+---
 
+`npm run dev` shows vite is able to read the env file
+
+but `npm run test:unit` shows vitest can't
+
+--- 
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
